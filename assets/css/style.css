@@ -1,0 +1,24 @@
+body{
+    font-family: "Roboto";
+}
+
+.logo{
+    width: 11rem;
+}
+
+.barato{
+    font-size: 1.2rem;
+}
+
+.caro{
+    text-decoration: line-through;
+}
+
+.chileimg{
+    width: 70px;
+}
+
+.card img{
+    width: 100%;
+    height: 260px;
+}
